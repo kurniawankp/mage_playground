@@ -1,0 +1,7 @@
+psycopg2
+sqlalchemy
+PyYAML
+Office365-REST-Python-Client
+openpyxl
+pyarrow
+clickhouse-connect
